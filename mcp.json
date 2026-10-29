@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "rea": {
-      "url": "https://rea-render.onrender.com/mcp",
-      "type": "streamable-http"
-    }
-  }
-}
