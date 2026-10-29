@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: rea-mcp
+    runtime: docker
+    plan: starter
+    healthCheckPath: /mcp
